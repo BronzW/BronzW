@@ -1,1 +1,1 @@
-I don't use cringy wave emojis in my GitHub README 
+I don't use wave emojis in my GitHub readme 
